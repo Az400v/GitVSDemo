@@ -11,6 +11,7 @@ using System.Threading.Tasks;
 
 namespace GitVSDemo
 {
+    
     public class Startup
     {
         public Startup(IConfiguration configuration)
